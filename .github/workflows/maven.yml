@@ -11,8 +11,6 @@ name: gitActions demo
 on:
   push:
     branches: [ "staging" ]
-  pull_request:
-    branches: [ "staging" ]
 
 jobs:
   build:
