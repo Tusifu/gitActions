@@ -42,7 +42,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>spring-images-new</finalName>
+		<finalName>git-actions-spring</finalName>
 	</build>
 
 
