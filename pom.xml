@@ -42,6 +42,8 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>spring-images-new</finalName>
 	</build>
+
 
 </project>
